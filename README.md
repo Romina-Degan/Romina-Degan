@@ -1,3 +1,2 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Romina-Degan&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Romina-Degan&langs_count=5&theme=tokyonight)]()
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Romina-Degan&layout=compact&theme=radical)
 
